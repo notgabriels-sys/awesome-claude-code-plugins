@@ -430,3 +430,11 @@ Example:
 
 Contributions are welcome!
  You can add your favorite plugins, share best practices, or submit your own marketplace.
+
+---
+
+## Gabriel Tools + Code
+
+Part of Gabriel García Alonso's public tool/product ecosystem. Browse the master catalog for related audio tools, repositories, Hologram People soundware, and services:
+
+[Gabriel Tools + Code](https://gabriel-tools-and-code.notgabriels960914.chatgpt.site/)
