@@ -394,6 +394,7 @@ Community-maintained plugin marketplaces you can add to access additional plugin
 | Marketplace | Description | Install |
 |-------------|-------------|---------|
 | [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips?tab=readme-ov-file#install-the-dx-plugin) | dx plugin: GitHub Actions analysis (`/gha`), conversation cloning (`/clone`, `/half-clone`), context handoffs (`/handoff`), Reddit fetching (`/reddit-fetch`) | `claude plugin marketplace add ykdojo/claude-code-tips` then `claude plugin install dx@ykdojo` |
+| [notgabriels-sys/claude-code-50-dark-themes](https://github.com/notgabriels-sys/claude-code-50-dark-themes) | Dark themes for the `/theme` picker in two packs: `50-dark-themes` (50 themes) and `dark-themes-vol-2` (12 more). Success, error, warning and diff colors stay on the base dark preset, and CI checks every palette against WCAG contrast floors. MIT | `claude plugin marketplace add notgabriels-sys/claude-code-50-dark-themes` then `claude plugin install 50-dark-themes@notgabriels-themes` |
 
 
 ### Skills & Frameworks
